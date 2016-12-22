@@ -21,15 +21,9 @@ namespace WindowsFormsApplication2
             this.Text = "Assignment 3";
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
+        
 
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void newNumbers_Click(object sender, EventArgs e)
         {
@@ -107,10 +101,7 @@ namespace WindowsFormsApplication2
             }
         }
 
-        private void messageBox_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void filter_Click(object sender, EventArgs e)
         {
@@ -134,12 +125,42 @@ namespace WindowsFormsApplication2
         }
         
 
-        private void textBox5_TextChanged(object sender, EventArgs e)
+        
+        private void numbersBoxLabel_Click(object sender, EventArgs e)
         {
 
         }
 
         private void numbersBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void index1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void index2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void messageBox_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void numbersBarLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+        private void numbersBar_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void cutoff_TextChanged(object sender, EventArgs e)
         {
 
         }
