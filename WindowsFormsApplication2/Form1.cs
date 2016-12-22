@@ -13,7 +13,7 @@ namespace WindowsFormsApplication2
     public partial class Form1 : Form
 
     {
-        int[] randomNumbers = new int[24;
+        int[] randomNumbers = new int[24];
         int[,] randomNumbersRect = new int[4,6];
         public Form1()
         {
