@@ -103,7 +103,7 @@ namespace WindowsFormsApplication2
             }
             else
             {
-                messageBox.Text = "The number selected is:" + randomNumbersRect[(indexToShow2 - 1), (indexToShow1 - 1)];
+                messageBox.Text = "The number selected is:" + randomNumbersRect[(indexToShow1 - 1), (indexToShow2 - 1)];
             }
         }
 
